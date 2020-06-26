@@ -1,4 +1,5 @@
-# Sistemas de Informação e Ciências da Computação - UFSC
+#  - UFSC
+Engloba matérias dos cursos de Sistemas de Informação e Ciências da Computação do INE-UFSC.
 
 ## Matérias
 - [Introdução à informática](https://github.com/brunocampos01/introducao-a-informatica)
