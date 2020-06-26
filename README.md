@@ -1,4 +1,4 @@
-#  - UFSC
+#  UFSC
 Engloba matérias dos cursos de Sistemas de Informação e Ciências da Computação do INE-UFSC.
 
 ## Matérias
